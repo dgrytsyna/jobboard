@@ -1,0 +1,2 @@
+<link href="<?= site_url('assets/css/bootstrap.min.css') ?>" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="<?= site_url('assets/css/style.css') ?>">
